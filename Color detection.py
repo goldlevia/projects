@@ -18,9 +18,9 @@ defined_colors = [[5, 107, 0, 19, 255, 255],
                   [57, 76, 0, 100, 255, 255]]
 
 
-my_color_values = [[51, 153, 255],
-                   [255, 0, 255],
-                   [0, 255, 0]]
+my_color_values = [[51, 153, 255], # blue RGB
+                   [255, 0, 255], # pink RGB
+                   [0, 255, 0]] # green RGB
 
 
 def find_color(find_color_def_img, my_colors):
